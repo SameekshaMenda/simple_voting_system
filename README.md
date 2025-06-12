@@ -45,5 +45,5 @@ Each vote is recorded on the blockchain, and users can see the total votes in re
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/SameekshaMenda/voting-dapp.git
+   git clone https://github.com/SameekshaMenda/simple_voting_system.git
    cd voting-dapp
